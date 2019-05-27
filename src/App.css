@@ -1,0 +1,67 @@
+.App {
+  text-align : center;
+  padding: 1px;
+  background-color: pink;
+}
+
+.App-header {
+  background-color: pink;
+  font-size: 1em;;
+  text-align: center;
+  margin: 3px;
+  font-family: Times New Roman;
+  border: 3px dashed black;
+}
+
+.App-link {
+  color: fuchsia;
+}
+
+.länk {
+  text-align: center
+}
+
+@keyframes  App-logo-spin {
+  from {
+    transform:  rotate ( 0 degress);
+  }
+  from {
+    transform: rotate ( 360 degress );
+  }
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border: 10px solid fuchsia
+}
+
+body {
+background-color:  pink;
+}
+
+.rubriker {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Times New Roman;
+}
+  
+ .rubriker {
+   text-align: center;
+   font-family: Times New Roman;
+ }
+
+.bilder {
+  
+}
+
+
+
+
+
+
+
+
+
+
