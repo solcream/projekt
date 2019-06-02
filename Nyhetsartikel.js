@@ -4,6 +4,7 @@ import React from 'react';
 function Nyhetsartikel (props) {
 return ( 
     <div className="grid">
+        {/*använder grid*/}
     <article>
         {/* lägger in mina bilder så att de ska synas*/}
 <img src={props.minArtikel.urlToImage} className="bilder" alt=""></img>

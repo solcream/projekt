@@ -58,13 +58,16 @@ background-color:  pink;
   width: 400px;
   height: 300px;
   padding: 35px;
-  align: center;
+  align-items: center;
 }
 
 .text {
   text-align: center;
   font-family: 'Times New Roman', Times, serif
+}
 
+.bilder {
+  align-items: center;
 }
 
 
