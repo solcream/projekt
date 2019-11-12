@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<class="html_boxed responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_center html_bottom_nav_header html_menu_right html_custom html_header_sticky_disabled html_header_shrinking_disabled html_mobile_menu_tablet html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_elegant-blog html_av-submenu-hidden html_av-submenu-display-click html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_383 av-no-preview html_text_menu_active">
+<head>
+<title>Blogg Elle Decoration</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width-device=width, initial-scale=1">
+<meta name="keywords" content="">
+<meta name="robots" content="index,follow">
+<meta name="HandheldFriendly" content="true">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <link href="elleförstasida.css" rel="stylesheet"
+ type="text/css"> 
+</head>
+        <nav>
+            <img class="inredning.img" src="inredning.png"> 
+<p><a href="file:///C:Users/per/Desktop/elle%20decoration/ellestartsida.html">Bloggar</a></p>
+<p><a href="file:///C:Users/per/Desktop/elle%20decoration/ellestartsida.html">Inredning</a></p>
+<p><a href="file:///C:Users/per/Desktop/elle%20decoration/ellestartsida.html">Kategorier</a></p>
+<p><a href="file:///C:Users/per/Desktop/elle%20decoration/ellestartsida.html">Hem</a></p>
+
+<div class="row-block one-column exclude-infinity ">
+<section class="block-section block-carnaby-header no-image " style= "" >
+<div class="carnaby-container">
+<div class="carnaby-content">
+    <div class="carnaby-header"></div>
+    
+                <div>
+                    <nav>
+                    </section>
+                         <article1>
+                    <br>
+                <h1>blogg</h1>
+                         </div>
+<div class="carnaby-description-long">
+    </div>
+    <br>
+<p>Here i have thought of collecting my blog posts about interior trends, color and materials.<div>
+      </div>
+  </article>
+<section>
+<section class="block-blank-divider block-section ">
+<section class="block-section ">
+<div class="row-block two-columns row">
+<div class="column-wrapper">
+<div class="column column-1" style="width:48%;">
+<section class="block-large-post block-section fade-effect">
+<article id="post-72679" class="">
+<a href="file:///C:Users/per/Desktop/elle%20decoration/ellestartsida.html">
+<div class="img-wrapper">
+<div class="post-image"></div>
+<div class="post-content">
+<div class="wrapper">
+<div class="post-category">
+<a href="file:///C:Users/per/Desktop/elle%20decoration/ellestartsida.html">
+<div class="img-wrapper">
+<img class="https://pixabay.com/sv/hotell-badrum-interiör-villa-1737171.img" src="travel-1737171_960_720.jpg"/>
+ </a>
+ </div>
+</div>
+<body>
+    <article>
+        <div class="post-content">
+                    <div class="wrapper">
+                                <div class="post-category">
+<a href="file:///C:Users/per/Desktop/elle%20decoration/ellestartsida.html"> 
+
+ Blogg            </a>
+                        <div>
+                            </a>      
+<div>
+    <br>
+<h2 class="post-title">
+<a href="file:///C:Users/per/Desktop/elle%20decoration/ellestartsida.html">
+<a href="special bathroom"</a></h2>
+    </div>
+    </section>
+</div>
+<section class="block-blank-divider block-section">
+<section class="block-section">
+<div class="row-block two-columns row">
+    <div class="column-wrapper">
+        <div class="column column-1"
+            <div class="column-wrapper">
+                <div class="column column-1" style="width:48%;">
+<section class="block-large-post block-section fade-effect">
+<h2 class="post-title">
+<div class="column column-2" style="width:48%;">
+</article>  
+</a>
+<h2>
+<div>
+<div>
+    <br>
+<div class="contentent">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+</div>
+<footer>
+<p>copyright &#169;2018<a href="/">My site</a></p>
+</footer> 
+</section>   
+</body>
+</html>

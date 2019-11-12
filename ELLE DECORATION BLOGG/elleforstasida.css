@@ -1,0 +1,71 @@
+.bilder {
+    text-align: center;
+    width: 500px;
+    height: 300px;
+    padding: 0;
+    align-items: center;
+  }
+
+
+  .link {
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .rubriker {
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Times New Roman;
+  
+
+  }
+  
+  .header {
+    background-color: papayawhip;
+    font-size: 12px;
+    text-align: center;
+    margin: 3px;
+    font-family: Times New Roman;
+    border: 3px solid  lightcoral;
+
+}
+
+div h1, h4, p, h2, a{
+    text-align: center;
+}
+
+header {
+  background-color:papayawhip;
+}
+
+body {
+  background-color:peachpuff; 
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border: 10px solid rgb(252, 233, 236);
+}
+
+
+@media (max-width: 767px) {
+  .logo-row > div {
+      width: 100%;
+      text-align: center;
+  }
+  .logo-row .img-responsive {
+      display: inline-block;
+  }
+  
+
+
+a {
+color:fuchsia;
+text-decoration: firebrick;
+}
+
+
+
+
